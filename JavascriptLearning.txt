@@ -1,0 +1,13 @@
+Javascript Learning 
+
+Functions:
+
+//Function declaration 
+function whatDoYouDo(job, firstName){
+}
+
+//Function expression 
+var whatDoYouDo = function(job, firstName){
+}
+
+Javascript function expression is a piece of code that will also produces a value.
